@@ -7,4 +7,4 @@
 
 numbers = (2, 3, 5, 7, 9, 11, 2, 43)
 
-print(f'The', len(numbers), f'numbers are: {str(numbers).replace("(","").replace(")", "")}')
+print(f'The {len(numbers)} numbers are: {str(numbers).replace("(","").replace(")", "")}')
